@@ -12,7 +12,7 @@ Check out the :doc:`algorithm` section for the algorithm of the modelling.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Algorithm
+   :caption: 星系的构成单元
 
    algorithm/sed/sed.rst
    algorithm/map/map.rst
@@ -21,12 +21,9 @@ Check out the :doc:`algorithm` section for the algorithm of the modelling.
 .. toctree::
    :hidden:
    :maxdepth: 2
-   :caption: Tutorial
+   :caption: 星系的形态
 
-   usage
-   algorithm
-   example
-   api/api.rst
+   spiral
 
 ----
 
